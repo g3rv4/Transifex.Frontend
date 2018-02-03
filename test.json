@@ -1,0 +1,47 @@
+[
+    {
+        "id": 40277878,
+        "string": "[$numVotes$ more votes needed]",
+        "reviewed": true,
+        "translation": {
+            "lastUpdate": "2015-11-20T19:15:03.586Z",
+            "string": "[Se necesita $numVotes$ voto más]",
+            "user": "jgarza"
+        },
+        "suggestions": [
+            {
+                "username": "luiggi0925",
+                "lastUpdate": "2015-08-21T23:38:08.285Z",
+                "suggestion": "[Se necesita(n) $numVotes$ voto(s) más]"
+            },
+            {
+                "username": "gmarchand.user",
+                "lastUpdate": "2018-01-30T04:31:25.328Z",
+                "suggestion": "[se necesita $numVotes$ voto más]"
+            }
+        ],
+        "comment": "VARIANT: one",
+        "stringHash": "f7a69452f46d83c54b8aca08e306635a",
+        "key": "0dd6b4f419f3489a580846fb4ebe831b|one"
+    },
+    {
+        "id": 40277882,
+        "string": "Are you sure you want to award your bounty to this answer? THIS CANNOT BE UNDONE!",
+        "reviewed": true,
+        "translation": {
+            "lastUpdate": "2015-08-15T01:24:44.735Z",
+            "string": "¿Estás seguro de que deseas otorgar tu recompensa a esta respuesta? ESTA ACCIÓN NO SE PUEDE DESHACER.",
+            "user": "fedorqui"
+        },
+        "suggestions": [
+            {
+                "username": "gmarchand.user",
+                "lastUpdate": "2018-01-30T03:25:13.005Z",
+                "suggestion": "¿Estás seguro de que deseas otorgar tu recompensa a esta respuesta? ESTA ACCIÓN NO SE PUEDE DESHACER!"
+            }
+        ],
+        "comment": "",
+        "stringHash": "d81130a663d5f9f0b931930222ce4d2a",
+        "key": "2de9c2314772731359c387be3656bc19"
+    }
+]
