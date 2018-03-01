@@ -10,5 +10,5 @@ pipeline:
       - "cp -r dist/* output-image/app/frontend/"
       - "cd output-image"
       - "git add app/frontend"
-      - "git commit -m 'Frontend update'"
+      - "git commit -m 'Frontend update: ${DRONE_COMMIT_SHA}'"
       - "git push"
